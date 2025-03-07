@@ -1,5 +1,5 @@
 # baikeSpiderUrllib-origin 详细信息
-时间：2025/3/6 \n
+时间：2025/3/6 
 功能：基于urllib爬取baike数据
 技术栈：
     1) HTTP工具：urllib
