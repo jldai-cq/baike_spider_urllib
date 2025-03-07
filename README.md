@@ -1,6 +1,3 @@
-# baike_spider_urllib
-基于urllib对baike进行crawl
-
 # baikeSpiderUrllib-origin 详细信息
 时间：2025/3/6
 功能：基于urllib爬取baike数据
