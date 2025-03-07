@@ -1,3 +1,16 @@
+"""
+时间：2025/3/6
+作者：daijl
+功能：爬取baike数据
+技术栈：
+    1) HTTP工具：urllib库
+    2) HTML解析工具：lxml库、xpath
+    3) 代理池工具：站大爷付费代理-https://www.zdaye.com/
+    4) useragent工具：自定义1个
+    5) 重试机制：无
+    6) 存储方式：jsonl
+"""
+
 import json
 import urllib.request
 import urllib.parse
